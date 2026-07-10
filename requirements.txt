@@ -1,0 +1,8 @@
+#selenium==4.45.0
+#pytest==9.1.1
+selenium==4.34.2
+pytest
+pytest-html
+pytest-xdist
+webdriver-manager
+allure-pytest
